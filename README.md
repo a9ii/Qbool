@@ -109,4 +109,3 @@ If you encounter any issues or have any questions, please reach out via the [Sup
 ---
 
 Enjoy using the bot, and let’s shape a brighter academic future together! 🌟
-```
