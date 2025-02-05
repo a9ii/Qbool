@@ -1,6 +1,6 @@
 <?php
 // توكن البوت الخاص بك
-$botToken = "7421423876:AAFzdNIC81FzDVByZI0P5mcCwsEsnVVyUWI";
+$botToken = "YourToken";
 $apiUrl = "https://api.telegram.org/bot$botToken/";
 
 // معرف القناة (اسم المستخدم)
