@@ -36,8 +36,8 @@ This bot is built using **PHP** and the **Telegram Bot API**. It offers a smooth
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/telegram-university-bot.git
-   cd telegram-university-bot
+   git clone https://github.com/a9ii/Qbool.git
+   cd Qbool
    ```
 
 2. **Configure Basic Settings:**
